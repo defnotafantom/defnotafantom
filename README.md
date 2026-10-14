@@ -1,16 +1,25 @@
-## Hi there 👋
+# Daniele Bucca
 
-<!--
-**defnotafantom/defnotafantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Progetti web e software · CPHR Studio**
 
-Here are some ideas to get you started:
+[Portfolio](https://cphr.it/) · [LinkedIn](https://www.linkedin.com/in/danielebucca/) · [Contatto](mailto:studio@cphr.it)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Parto da esigenze concrete: presentare un’attività, organizzare informazioni o semplificare un compito. CPHR Studio raccoglie questi lavori e il loro contesto.
+
+Utilizzo Claude, Codex e ChatGPT nel processo di sviluppo. Il mio contributo riguarda l’idea, i requisiti, le scelte di interfaccia e l’organizzazione del lavoro, con implementazione e verifiche assistite dall’IA. Sto consolidando le basi di programmazione attraverso questi progetti.
+
+## Progetti da esplorare
+
+| Progetto | Problema affrontato | Tecnologie nel codice | Stato |
+| --- | --- | --- | --- |
+| [Vybes](https://github.com/defnotafantom/vybes) | Collegare artisti e organizzatori attraverso profili, portfolio e opportunità. | TypeScript, Next.js, Prisma, PostgreSQL | Progetto personale in sviluppo |
+| [Open Dance](https://github.com/defnotafantom/open-dance) | Riunire corsi, iscrizioni, presenze e comunicazioni di una scuola di danza. | TypeScript, Next.js, Supabase | Applicazione in sviluppo; accesso alla demo riservato |
+| [Overgroove](https://github.com/defnotafantom/overgroove) | Esplorare disponibilità, avvisi e playlist di un gruppo di danza. | HTML, CSS, JavaScript, IndexedDB | Prototipo locale nel browser |
+
+Per i lavori per clienti e le presentazioni visuali: **[cphr.it](https://cphr.it/)**. Il portfolio e le repository hanno ruoli diversi: il primo racconta il lavoro, le seconde permettono di esaminare il codice disponibile.
+
+## Per chi valuta una candidatura
+
+Sono interessato a opportunità di ingresso in ambito web e software, con affiancamento e crescita tecnica. Sono disponibile a valutare trasferimenti e lavoro da remoto.
+
+Nei repository trovi il contesto dei progetti, le tecnologie utilizzate e, dove presenti, i controlli automatici. L’uso dell’IA è dichiarato: i progetti documentano il percorso e non costituiscono una dichiarazione di autonomia su ogni tecnologia impiegata.
