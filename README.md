@@ -22,4 +22,4 @@ Per i lavori per clienti e le presentazioni visuali: **[cphr.it](https://cphr.it
 
 Sono interessato a opportunità di ingresso in ambito web e software, con affiancamento e crescita tecnica. Sono disponibile a valutare trasferimenti e lavoro da remoto.
 
-Nei repository trovi il contesto dei progetti, le tecnologie utilizzate e, dove presenti, i controlli automatici. L’uso dell’IA è dichiarato: i progetti documentano il percorso e non costituiscono una dichiarazione di autonomia su ogni tecnologia impiegata.
+Nei repository trovi il contesto dei progetti, le tecnologie presenti nel codice, le istruzioni di avvio, i controlli automatici e il lavoro ancora aperto.
